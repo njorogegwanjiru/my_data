@@ -1,6 +1,5 @@
 {
  "Products" : {
-    {
       "dob" : "02/02/2020",
       "email" : "a@g.com",
       "fname" : "mm",
@@ -22,5 +21,4 @@
       "sex" : "Male",
       "usertype" : "0"
     }
-  }
 }
