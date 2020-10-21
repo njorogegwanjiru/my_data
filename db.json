@@ -1,5 +1,10 @@
-  "products": [
-    {"id": 1, "title": "Office Code", "price": 234, "size": 12, "description": "dummyText","image": "assets/images/bag_1.png","color": "0xFF3D82AE"},
-    {"id": 1, "title": "Office Code", "price": 234, "size": 12, "description": "dummyText","image": "assets/images/bag_1.png","color": "0xFF3D82AE"}
-  ]
+  "products": {
+    "id": 1, 
+    "title": "Office Code",
+    "price": 234,
+    "size": 12,
+    "description": "dummyText",
+    "image": "assets/images/bag_1.png",
+    "color": "0xFF3D82AE"
+    }
 
