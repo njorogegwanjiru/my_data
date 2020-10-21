@@ -1,10 +1,70 @@
-  "products": {
-    "id": 1, 
-    "title": "Office Code",
-    "price": 234,
-    "size": 12,
-    "description": "dummyText",
-    "image": "assets/images/bag_1.png",
-    "color": "0xFF3D82AE"
+{
+ "Patients" : {
+    "8jr7qQwgDIhsToiJheOTxkhxIz12" : {
+      "dob" : "02/02/2020",
+      "email" : "a@g.com",
+      "fname" : "mm",
+      "id" : "8jr7qQwgDIhsToiJheOTxkhxIz12",
+      "lname" : "mm",
+      "mname" : "nn",
+      "phone" : "0799888666",
+      "sex" : "Male",
+      "usertype" : "0"
+    },
+    "IpcgxbgXj6ZISMslDo4FkFmXjNG3" : {
+      "dob" : "06/11/1954",
+      "email" : "dad@gmail.com",
+      "fname" : "Anthony",
+      "id" : "IpcgxbgXj6ZISMslDo4FkFmXjNG3",
+      "lname" : "Njoroge",
+      "mname" : "",
+      "phone" : "0722969140",
+      "sex" : "Male",
+      "usertype" : "0"
+    },
+    "Rqk8oMrpfDaDBcZrvt7cwjDvocr1" : {
+      "dob" : "06/23/97",
+      "email" : "mercy@gmail.com",
+      "fname" : "Mercy",
+      "id" : "Rqk8oMrpfDaDBcZrvt7cwjDvocr1",
+      "lname" : "Gitonga",
+      "mname" : "Wanjiru",
+      "phone" : "0792209313",
+      "sex" : "Male",
+      "usertype" : "0"
+    },
+    "hJBdgvwD7AMtw3PSEeU6mc4Z5CJ2" : {
+      "dob" : "06/24/1969",
+      "email" : "mim@mim.com",
+      "fname" : "mary",
+      "id" : "hJBdgvwD7AMtw3PSEeU6mc4Z5CJ2",
+      "lname" : "wacuka",
+      "mname" : "",
+      "phone" : "123456",
+      "sex" : "Male",
+      "usertype" : "0"
+    },
+    "mq2N4FLYblMwijkNt2fi6lrw4942" : {
+      "dob" : "03/14/1997",
+      "email" : "ji@gmail.com",
+      "fname" : "up",
+      "id" : "mq2N4FLYblMwijkNt2fi6lrw4942",
+      "lname" : "vv",
+      "mname" : "b",
+      "phone" : "0792209313",
+      "sex" : "Male",
+      "usertype" : "0"
+    },
+    "y9pNyCu0NdTcQvGewlwf3pZ2aup1" : {
+      "dob" : "06/28/2019",
+      "email" : "h@gmail.com",
+      "fname" : "Grace",
+      "id" : "y9pNyCu0NdTcQvGewlwf3pZ2aup1",
+      "lname" : "njoroge",
+      "mname" : "Wanjiru",
+      "phone" : "0722969140",
+      "sex" : "Male",
+      "usertype" : "0"
     }
-
+  }
+}
