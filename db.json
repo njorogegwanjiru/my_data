@@ -1,9 +1,8 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "roducts": [
+    {"id": 1, "title": "Office Code", "price": 234, "size": 12, "description": "dummyText","image": "assets/images/bag_1.png","color": Color(0xFF3D82AE) },
+    {"id": 1, "title": "Office Code", "price": 234, "size": 12, "description": "dummyText","image": "assets/images/bag_1.png","color": Color(0xFF3D82AE) }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
